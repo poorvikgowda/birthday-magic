@@ -71,7 +71,7 @@ To personalize the entire experience for another friend, simply edit:
 ```typescript
 export const birthdayConfig = {
   // 1. Friend's Details
-  name: "Sanjana",
+  name: "name",
   nickname: "",                  // Optional nickname (leave "" if none)
   senderName: "Poorvik",         // Your name (used on letter and finale)
 
