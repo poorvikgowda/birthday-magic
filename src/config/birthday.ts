@@ -16,7 +16,7 @@ import { BirthdayConfig } from '../types/birthday';
  */
 export const birthdayConfig: BirthdayConfig = {
   // 1. The star of the celebration!
-  name: "Sanjana",
+  name: "name",
 
   // Optional nickname (leave empty "" if not needed)
   nickname: "",
